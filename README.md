@@ -4,7 +4,7 @@ This project analyzes the affordability and accessibility challenges of Early Ch
 Using Exploratory Data Analysis (EDA), statistical analysis, and data visualization in R, this project provides insights into the impact of childcare expenses and offers actionable recommendations for improving accessibility.
 
 # Tools & Libraries
-- R (Tidyverse, ggplot2, dplyr)
+- R (tidyverse, plotly, rmarkdown)
 - Statistical Analysis (Descriptive stats, proportion tests)
 
 # How to View the Report
