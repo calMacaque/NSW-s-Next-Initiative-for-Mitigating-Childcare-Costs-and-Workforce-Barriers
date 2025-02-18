@@ -9,5 +9,5 @@ R (Tidyverse, ggplot2, dplyr)
 Statistical Analysis (Descriptive stats, proportion tests)
 
 # How to View the Report
-1. Click "Download raw HTML" on Project2.html.
+1. Click "Download raw HTML" on PROJECT2.html.
 2. Open the file in a web browser to view the full analysis.
